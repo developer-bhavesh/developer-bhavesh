@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm [Your Name] </h1>
+<h1 align="center">Hi there! 👋 I'm Bhavesh </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY1OTFhODJlYjhiODAxODhlNWMxOGY2MmNlY2JlMmYwMzFiODBlMSZjdD1n/DRfu7BT8ZK1uo/giphy.gif" width="200">
