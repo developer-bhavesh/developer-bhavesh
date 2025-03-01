@@ -15,7 +15,7 @@
 - **Type:** Full Stack Developer 🔥⚡  
 - **Ability:** Open Source Enthusiast 🛠️  
 - **Held Item:** Pop! OS 🐧  
-- **Currently Training:** React Native, SwiftUI, Backend,Svelte 🚀  
+- **Currently Training:** React Native, SwiftUI, Backend, Svelte 🚀  
 
 ---
 
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Linux%20Mastery-🐧-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React%20Native-🔥-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IOS%20Development-🍏-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java%20Explorer-🐍-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Svelte%20Explorer-🐍-yellow?style=for-the-badge" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/metagross.gif" width="50">
   </p>
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,swift,react,redux,html,css,linux,git,github,python,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,java,swift,react,sevelte,redux,html,css,linux,git,github,python,vscode" />
 </p>
 
 💡 **Special Move:** `"sudo make me a sandwich" 🥪`  
