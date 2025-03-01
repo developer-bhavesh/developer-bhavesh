@@ -15,7 +15,7 @@
 - **Type:** Full Stack Developer 🔥⚡  
 - **Ability:** Open Source Enthusiast 🛠️  
 - **Held Item:** Pop! OS 🐧  
-- **Currently Training:** React Native, SwiftUI, Backend 🚀  
+- **Currently Training:** React Native, SwiftUI, Backend,Svelte 🚀  
 
 ---
 
