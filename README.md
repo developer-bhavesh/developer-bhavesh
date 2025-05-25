@@ -50,11 +50,10 @@
      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" width="50">
      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pidgeot.gif" width="50">
       <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/meowth.gif" width="50">
-      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/snivy.gif" width="50">
      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/metagross.gif" width="50">
   </p>
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,swift,react,redux,html,css,linux,git,github,python,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,java,swift,react,redux,html,css,linux,git,github,vscode" />
 </p>
 
 💡 **Special Move:** `"sudo make me a sandwich" 🥪`  
