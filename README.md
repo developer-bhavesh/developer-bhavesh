@@ -22,7 +22,8 @@
 ## 🎮 About Me  
 🔥 Pokémon Master in training & a **Linux warrior by choice** 🐧  
 👨‍💻 **CSE student**, leading a **development of research project** for **Parul university & ICMR**.  
-🛠️ **Tech Stack:** JavaScript as for React Native, React for **Web and Mobile App Development**, C and C++ for **DSA** and also have exposure in Java(include spring and springboot basics) & Python(includes FastAPI,Flask and Danjgo) .  
+🛠️ **Tech Stack:** JavaScript as for React Native, React,Redux,Express for **Web and Mobile App Development**, C and C++ for **DSA**, GO
+⚡ I have exposure in **Java(include spring and springboot basics) & Python(includes FastAPI,Flask and Danjgo)** thanks to our college syallbus.  
 🚀 **Passionate about Open-Source**, and always evolving!  
 
 ---
