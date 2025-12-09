@@ -14,15 +14,15 @@
 - **Name:** Bhavesh  
 - **Type:** Full Stack Developer 🔥⚡  
 - **Ability:** Open Source Enthusiast 🛠️  
-- **Held Item:** Pop! OS 🐧  
+- **Held Item:** Arch🐧  
 - **Currently Training:** React Native, SwiftUI, Backend, Svelte 🚀  
 
 ---
 
 ## 🎮 About Me  
-🔥 Pokémon Master in training & a **Linux warrior** 🐧  
-👨‍💻 **2nd-year CSE student**, leading a **React Native project** for **university & ICMR**.  
-🛠️ **Tech Stack:** JavaScript, Java, Swift, React Native, C, Redux, HTML, CSS, Python (basic).  
+🔥 Pokémon Master in training & a **Linux warrior by choice** 🐧  
+👨‍💻 **CSE student**, leading a **development of research project** for **Parul university & ICMR**.  
+🛠️ **Tech Stack:** JavaScript as for React Native, React for **Web and Mobile App Development**, C and C++ for **DSA** and also have exposure in Java(include spring and springboot basics) & Python(includes FastAPI,Flask and Danjgo) .  
 🚀 **Passionate about Open-Source**, and always evolving!  
 
 ---
