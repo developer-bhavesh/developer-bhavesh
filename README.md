@@ -19,25 +19,19 @@
 ## `> neofetch`
 
 ```text
-                   -`                    bhavesh@archlinux
-                  .o+`                   -----------------
-                 `ooo/                   Role: Software Engineer Intern & B.Tech CSE Student
-                `+oooo:                  Focus: High-Performance Systems & Native App Dev
-               `+oooooo:                 DSA & Algorithms: C++
-               -+oooooo+:                Environment: Arch Linux, CachyOS, Wayland
-             `/:-:++oooo+:               Leadership: Founding Lead @ Swift Coding Club
-            `/++++/+++++++:              Aspiration: Google Summer of Code (GSoC) 2026
-           `/++++++++++++++:             
-          `/+++ooooooooooooo/`           
-         ./ooosssso++osssssso+`          
-        .oossssso-````/ossssss+`         
-       -osssssso.      :ssssssso.        
-      :osssssss/        osssso+++.       
-     /ossssssss/        +ssssooo/-       
-   `/ossssso+/:-        -:/+osssso+-     
-  `+sso+:-`                 `.-/+oso:    
- `++:.                           `-/+/   
- .`                                 `/   
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   bhavesh@archlinux
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   -----------------
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Role: Software Engineer Intern & B.Tech CSE Student
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Focus: High-Performance Systems & Native App Dev
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣷⣤⣙⢻⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀   DSA & Algorithms: C++
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀   Environment: Arch Linux, CachyOS, Wayland
+⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀   Leadership: Founding Lead @ Swift Coding Club
+⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⡿⠛⠛⠿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀   Aspiration: Google Summer of Code (GSoC) 2026
+⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀   
+⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⠿⣆⠀⠀⠀⠀   
+⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀   
+⠀⢀⣾⣿⣿⠿⠟⠛⠋⠉⠉⠀⠀⠀⠀⠀⠀⠉⠉⠙⠛⠻⠿⣿⣿⣷⡀⠀   
+⣠⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⣄   
 ```
 
 ## `> cat ~/.about_me.md`
@@ -71,7 +65,7 @@ I am a Computer Science engineering student and a **Linux enthusiast** who build
 ## `> ls /opt/tech-stack/`
 
 <p align="left">
-  <img src="[https://skillicons.dev/icons?i=cpp,go,js,java,swift,react,redux,html,css,linux,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=cpp,go,js,java,swift,react,redux,html,css,linux,git,github,vscode&theme=dark)" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,js,java,swift,react,redux,html,css,linux,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
@@ -79,5 +73,5 @@ I am a Computer Science engineering student and a **Linux enthusiast** who build
 ## `> top -u developer-bhavesh`
 
 <p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api?username=developer-bhavesh&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=developer-bhavesh&show_icons=true&theme=tokyonight)" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=developer-bhavesh&show_icons=true&theme=tokyonight" width="400" alt="GitHub Stats" />
 </p>
