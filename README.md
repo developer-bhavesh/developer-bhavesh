@@ -1,75 +1,71 @@
-<!-- Header -->
-<h1 align="center">
-  Hey Trainer! 👋 I'm Bhavesh
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9zdmtpbGZkZWx6ODBrODlqY3lzb2xjZXFsMDdybzg5MmkwcGxudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IQebREsGFRXmo/giphy.gif" width="50">
+<h1 align="left">
+  <code>bhavesh@linux:~$ whoami</code>
 </h1>
 
-
-  
-
-
----
-
-## 🛡️ Pokédex Entry
-- **Name:** Bhavesh  
-- **Type:** Full Stack Developer 🔥⚡  
-- **Ability:** Open Source Enthusiast 🛠️  
-- **Held Item:** Arch🐧  
-- **Currently Training:** React Native, SwiftUI, Backend, Svelte 🚀  
-
----
-
-## 🎮 About Me  
-🔥 Pokémon Master in training & a **Linux warrior by choice** 🐧  
-
-👨‍💻 **CSE student**, leading a **development of research project** for **Parul university & ICMR**.  
-
-🛠️ **Tech Stack:** JavaScript as for React Native, React,Redux,Express for **Web and Mobile App Development**, C and C++ for **DSA**, GO.
-
-⚡ I have exposure in **Java(include spring and springboot basics) & Python(includes FastAPI,Flask and Danjgo)** thanks to our college syallbus.  
-
-🚀 **Passionate about Open-Source**, and always evolving!  
-
----
-
-## 🏆 Badges Unlocked  
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux%20Mastery-🐧-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React%20Native-🔥-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IOS%20Development-🍏-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Svelte%20Explorer-🐍-yellow?style=for-the-badge" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/developer-bhavesh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/solankibhavesh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://github.com/developer-bhavesh/developer-bhavesh/blob/84c654e6541dc831883f94ba0fd795b09f1fc666/Resume-bhavesh.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+  </a>
 </p>
 
 ---
 
-## 🚀 Tech Stack - My Pokémon Party  
-<p align="center">
-  <p align="center"> 
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif" width="50">
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif" width="50">
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/piplup.gif" width="50"> 
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/jirachi.gif" width="50"> 
-   <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif" width="50">
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif" width="50"> 
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif" width="50">
-     <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" width="50">
-     <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pidgeot.gif" width="50">
-      <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/meowth.gif" width="50">
-     <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/metagross.gif" width="50">
-  </p>
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,swift,react,redux,html,css,linux,git,github,vscode" />
-</p>
+## `> neofetch`
 
-💡 **Special Move:** `"sudo make me a sandwich" 🥪`  
+```text
+                   -`                    bhavesh@archlinux
+                  .o+`                   -----------------
+                 `ooo/                   Role: Software Engineer Intern & B.Tech CSE Student
+                `+oooo:                  Focus: High-Performance Systems & Native App Development
+               `+oooooo:                 DSA & Algorithms: C++
+               -+oooooo+:                Environment: Arch Linux, CachyOS, Wayland
+             `/:-:++oooo+:               Leadership: Founding Lead @ Swift Coding Club 
+            `/++++/+++++++:              Aspiration: Google Summer of Code (GSoC) 2026
+```
+
+## `> cat ~/.about_me.md`
+
+I am a Computer Science engineering student and a **Linux enthusiast** who builds high-performance applications and system utilities. Currently, I serve as a Core Engineer for the **India-EMS (ICMR National R&D Project)**, developing offline-first mobile sync layers for digitized healthcare workflows. 
+
+* **Algorithmic Problem Solving:** I actively practice advanced Data Structures and Algorithms using **C++**. 
+* **Application Development:** I build robust, cross-platform, and native tools using **Go, Swift/SwiftUI, React Native, and C++**.
+* **Academic Foundations:** Strong exposure to Java (Spring Boot) and Python (FastAPI, Flask, Django).
+* **Open Source:** Passionate about open-source contributions, kernel tuning, and continually evolving my technical stack.
 
 ---
 
-## 📊 GitHub Stats - My Trainer Progress  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developer-bhavesh&show_icons=true&theme=tokyonight" width="400" />
+## `> ls /var/log/experience/`
+
+* **Software Engineer Intern** @ *Parul University (ICMR National R&D Project)* * Building an offline-first mobile sync layer for the India-EMS digitized healthcare emergency response system.
+* **Founding Lead** @ *Swift Coding Club, Parul University*
+    * Mentoring over 200 students in modern software development, logic building, and the iOS ecosystem.
+
+---
+
+## `> ls ~/projects/`
+
+* **SoneT Modern Code Editor** - A lightweight, cross-platform code editor built with **Go and Wails**, optimized for low memory usage and fast startup times.
+* **Sonet AI Desktop Assistant** - A native Linux AI assistant leveraging **PySide6 and Qwen LLM** with Retrieval-Augmented Generation (RAG).
+* **TechExpo Review Platform** - Architected a non-blocking backend on **Google Cloud Platform** to handle high-volume review writes and real-time analytics.
+
+---
+
+## `> ls /opt/tech-stack/`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,go,js,java,swift,react,redux,html,css,linux,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
+---
 
+## `> top -u developer-bhavesh`
 
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=developer-bhavesh&show_icons=true&theme=tokyonight" width="400" alt="GitHub Stats" />
+</p>
