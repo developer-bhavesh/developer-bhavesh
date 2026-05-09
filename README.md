@@ -27,6 +27,17 @@
                -+oooooo+:                Environment: Arch Linux, CachyOS, Wayland
              `/:-:++oooo+:               Leadership: Founding Lead @ Swift Coding Club 
             `/++++/+++++++:              Aspiration: Google Summer of Code (GSoC) 2026
+           `/++++++++++++++:             
+          `/+++ooooooooooooo/`           
+         ./ooosssso++osssssso+`          
+        .oossssso-````/ossssss+`         
+       -osssssso.      :ssssssso.        
+      :osssssss/        osssso+++.       
+     /ossssssss/        +ssssooo/-       
+   `/ossssso+/:-        -:/+osssso+-     
+  `+sso+:-`                 `.-/+oso:    
+ `++:.                           `-/+/   
+ .`                                 `/   
 ```
 
 ## `> cat ~/.about_me.md`
