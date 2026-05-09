@@ -12,6 +12,9 @@
   <a href="https://github.com/developer-bhavesh/developer-bhavesh/blob/84c654e6541dc831883f94ba0fd795b09f1fc666/Resume-bhavesh.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Apple_Certified-Associate-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Certified">
+  </a>
 </p>
 
 ---
@@ -19,15 +22,15 @@
 ## `> neofetch`
 
 ```text
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   bhavesh@archlinux
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   -----------------
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   bhavesh@system
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   --------------
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Role: Software Engineer Intern & B.Tech CSE Student
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Focus: High-Performance Systems & Native App Dev
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   Focus: High-Performance Systems & Native iOS Dev
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣷⣤⣙⢻⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀   DSA & Algorithms: C++
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀   Environment: Arch Linux, CachyOS, Wayland
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀   Environment: Arch Linux & macOS
 ⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⠀⠀   Leadership: Founding Lead @ Swift Coding Club
-⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⡿⠛⠛⠿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀   Aspiration: Google Summer of Code (GSoC) 2026
-⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀   
+⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⡿⠛⠛⠿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀   Certification: Apple App Dev with Swift (Associate)
+⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀  
 ⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⠿⣆⠀⠀⠀⠀   
 ⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀   
 ⠀⢀⣾⣿⣿⠿⠟⠛⠋⠉⠉⠀⠀⠀⠀⠀⠀⠉⠉⠙⠛⠻⠿⣿⣿⣷⡀⠀   
@@ -36,10 +39,11 @@
 
 ## `> cat ~/.about_me.md`
 
-I am a Computer Science engineering student and a **Linux enthusiast** who builds high-performance applications and system utilities. Currently, I serve as a Core Engineer for the **India-EMS (ICMR National R&D Project)**, developing offline-first mobile sync layers for digitized healthcare workflows. 
+I am a Computer Science engineering student who embraces the best of both computing worlds: a hardcore **Linux enthusiast** who builds system utilities, and a dedicated **Mac lover** proficient in Apple technologies. Currently, I serve as a Core Engineer for the **India-EMS (ICMR National R&D Project)**, developing offline-first mobile sync layers for digitized healthcare workflows. 
 
+* **Apple Ecosystem:** Certified in **App Development with Swift (Associate)** by Apple, specializing in robust native iOS applications using Swift and SwiftUI.
 * **Algorithmic Problem Solving:** I actively practice advanced Data Structures and Algorithms using **C++**. 
-* **Application Development:** I build robust, cross-platform, and native tools using **Go, Swift/SwiftUI, React Native, and C++**.
+* **Application Development:** I build cross-platform and backend tools using **Go, React Native, and C++**.
 * **Academic Foundations:** Strong exposure to Java (Spring Boot) and Python (FastAPI, Flask, Django).
 * **Open Source:** Passionate about open-source contributions, kernel tuning, and continually evolving my technical stack.
 
@@ -65,13 +69,11 @@ I am a Computer Science engineering student and a **Linux enthusiast** who build
 ## `> ls /opt/tech-stack/`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,go,js,java,swift,react,redux,html,css,linux,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=apple,swift,cpp,go,js,java,react,redux,html,css,linux,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
 
 ## `> top -u developer-bhavesh`
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=developer-bhavesh&show_icons=true&theme=tokyonight" width="400" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developer-bhavesh&show_icons=true&theme=tokyonight)
