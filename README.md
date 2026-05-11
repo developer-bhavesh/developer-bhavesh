@@ -1,5 +1,5 @@
 <h1 align="left">
-  <code>bhavesh@linux:~$ whoami</code>
+  <code>Solanki@Bhavesh:~$ whoami</code>
 </h1>
 
 <p align="left">
